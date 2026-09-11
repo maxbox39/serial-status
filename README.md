@@ -12,7 +12,7 @@
 
 1. У Lampa відкрий **Налаштування → Розширення / Плагіни**.
 2. Додай плагін за посиланням:
-(https://raw.githubusercontent.com/maxbox39/serial-status/refs/heads/main/serial-status.js)
+(https://maxbox39.github.io/serial-status/serial-status.js)
 ---
 
 ## Можливості
